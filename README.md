@@ -8,7 +8,7 @@ Directory to get latitude and longitude values of particular city.
 
 `from getLatLng import latlng`
 
-`result = latlng.getLatLngList(['Pune']) #getLatLngList will print the list of list to print result in CSV in easy way.`
+`result = latlng.getLatLngList(['Pune'])` < getLatLngList will print the list of list to print result in CSV in easy way.>
 
 `print result`
 
