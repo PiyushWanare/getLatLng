@@ -1,6 +1,6 @@
 # getLatLng
 Directory to get latitude and longitude values of particular city.
 
-Installation
+# Installation
 `pip install getLatLng`
 
